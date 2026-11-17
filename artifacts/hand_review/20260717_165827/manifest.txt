@@ -1,0 +1,15 @@
+ok	01_front.bmp	x=0.00 y=1.15 z=-0.55 yaw=3.142 pitch=0.087
+ok	02_front_close.bmp	x=0.00 y=1.16 z=-0.32 yaw=3.142 pitch=0.140
+ok	03_three_quarter_l.bmp	x=0.32 y=1.11 z=-0.38 yaw=2.443 pitch=0.175
+ok	04_three_quarter_r.bmp	x=-0.32 y=1.11 z=-0.38 yaw=-2.443 pitch=0.175
+ok	05_side_l.bmp	x=0.50 y=1.16 z=0.00 yaw=1.571 pitch=0.087
+ok	06_side_r.bmp	x=-0.50 y=1.16 z=-0.00 yaw=-1.571 pitch=0.087
+ok	07_back.bmp	x=0.00 y=1.15 z=0.55 yaw=-0.000 pitch=0.087
+ok	08_top.bmp	x=0.00 y=0.73 z=-0.17 yaw=3.142 pitch=1.222
+ok	09_bottom.bmp	x=0.00 y=1.61 z=-0.29 yaw=3.142 pitch=-0.960
+ok	10_palm_up.bmp	x=0.00 y=1.37 z=-0.36 yaw=3.142 pitch=-0.436
+ok	11_cleft_close.bmp	x=0.22 y=1.14 z=-0.21 yaw=3.142 pitch=0.262
+ok	12_right_side.bmp	x=-0.02 y=1.16 z=-0.14 yaw=-2.094 pitch=0.140
+ok	13_right_top.bmp	x=0.16 y=0.95 z=-0.16 yaw=-2.793 pitch=0.960
+ok	14_left_cleft.bmp	x=-0.22 y=1.14 z=-0.21 yaw=3.142 pitch=0.262
+ok	15_pair_wide.bmp	x=0.00 y=1.08 z=-0.84 yaw=3.142 pitch=0.140

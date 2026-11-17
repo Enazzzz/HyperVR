@@ -1,0 +1,13 @@
+ok	01_front.bmp	x=0.00 y=1.35 z=-2.60 yaw=3.142 pitch=-0.050
+ok	02_front_close.bmp	x=0.00 y=1.45 z=-1.35 yaw=3.142 pitch=-0.080
+ok	03_face_close.bmp	x=0.00 y=1.55 z=-0.85 yaw=3.142 pitch=0.000
+ok	04_three_quarter_l.bmp	x=-1.40 y=1.45 z=-1.80 yaw=2.576 pitch=-0.080
+ok	05_three_quarter_r.bmp	x=1.40 y=1.45 z=-1.80 yaw=-2.576 pitch=-0.080
+ok	06_side_l.bmp	x=-2.20 y=1.40 z=-0.30 yaw=1.728 pitch=-0.050
+ok	07_side_r.bmp	x=2.20 y=1.40 z=-0.30 yaw=-1.728 pitch=-0.050
+ok	08_back.bmp	x=0.00 y=1.35 z=2.60 yaw=0.000 pitch=-0.050
+ok	09_hands_front.bmp	x=0.00 y=0.70 z=-1.60 yaw=3.142 pitch=0.250
+ok	10_hands_close_l.bmp	x=-0.35 y=0.65 z=-1.05 yaw=2.890 pitch=0.150
+ok	11_hands_close_r.bmp	x=0.35 y=0.65 z=-1.05 yaw=-2.890 pitch=0.150
+ok	12_top_down.bmp	x=0.00 y=3.00 z=-0.80 yaw=3.142 pitch=-1.050
+ok	13_low_angle.bmp	x=0.00 y=0.45 z=-2.30 yaw=3.142 pitch=0.280

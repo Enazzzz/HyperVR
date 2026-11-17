@@ -1,0 +1,6 @@
+.\scripts\install.ps1
+.\build\bin\Release\xr_demo.exe
+
+# Python (default env on PATH)
+.\scripts\install.ps1 -Python
+python python\main.py
